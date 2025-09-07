@@ -24,5 +24,5 @@ I love working on projects related to  web apps, desktop applications, machine l
 ## 📫 Contact
 - GitHub: https://github.com/ChuanBuJianRi
 - Email: gaoyy16888@gmail.com
-- School E-mail: yyang.gao@mial.utoronto.ca
+- School E-mail: yyang.gao@mail.utoronto.ca
 
