@@ -8,8 +8,8 @@ I love working on projects related to  web apps, desktop applications, machine l
 
 ## 🚀 Skills
 - Programming Languages: Python, Java, C++, Rust, R
-- Tools & Frameworks: Git, Docker, VS Code, Pycharm, Intellij IDEA
-- Focus Areas: Data Analysis / Web Development / Desktop Applications / Machine Learning  
+- Tools & Frameworks: Git, Docker, VSCode, Pycharm, Intellij IDEA， CLion, RustRover
+- Focus Areas: Machine Learning / Data Analysis / Web Development / Desktop Applications 
 
 ## 📂 Projects
 - **Customer Management System**: A desktop app built with Python and Tkinter for managing client data.  
