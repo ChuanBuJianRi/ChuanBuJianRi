@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!%20I'm%20YiYang%20👋&fontSize=40)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+%7C+Math+%7C+Computer+Science+Enthusiast;Exploring+ideas+one+project+at+a+time...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+%7C+%7C+Computer+Science+Enthusiast;Exploring+ideas+one+project+at+a+time...)](https://git.io/typing-svg)
 
 # 👋 About Me
 
