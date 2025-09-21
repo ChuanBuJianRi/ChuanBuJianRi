@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![C++](https://img.shields.io/badge/C++-17-orange)
 
 # 👋 About Me
 
