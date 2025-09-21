@@ -1,7 +1,3 @@
-<!-- 顶部彩虹横幅 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff0000,ff7f00,ffff00,00ff00,0000ff,4b0082,8f00ff&height=230&section=header&text=Hello!%20I'm%20YiYang%20(Thomas)%20👋&fontSize=40&fontAlignY=40)
-
----
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!%20I'm%20YiYang%20(Thomas)%20👋&fontSize=40)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+%7C+Computer+Science+Enthusiast;Always+learning+new+things...)](https://git.io/typing-svg)
