@@ -28,3 +28,6 @@ I love working on projects related to  web apps, desktop applications, machine l
 - Email: gaoyy16888@gmail.com
 - School E-mail: yyang.gao@mail.utoronto.ca
 
+## Leetcode 
+![LeetCode Stats](https://leetcard.jacoblin.cool/<gaoyiyang1009>?theme=dark&font=Karma&ext=heatmap)
+
