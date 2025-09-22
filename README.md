@@ -28,8 +28,6 @@ I love working on projects related to  web apps, desktop applications, machine l
 - Email: gaoyy16888@gmail.com
 - School E-mail: yyang.gao@mail.utoronto.ca
 
-## <a href="https://leetcode.com/u/gaoyiyang1009/">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
-</a> Leetcode 
+## Leetcode 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/gaoyiyang1009?theme=dark&font=Karma&ext=heatmap)
 
