@@ -2,21 +2,24 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!%20I'm%20YiYang%20(Thomas)&fontSize=40)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+%7C+Computer+Science+Enthusiast;Always+learning+new+things...)](https://git.io/typing-svg)
 
-# 👋 About Me(See my self-web: "aws.yiyangweb.top")
+# 👋 About Me(See my blog "aws.yiyangweb.top")
 
 Hi, I'm YiYang(Thomas) Gao.  
-I'm passionate about software development, data science, mechine learning and enjoy exploring new technologies.  
-I love working on projects related to  web apps, desktop applications, machine learning and continuously improving my skills.
-
-## 🚀 Skills
-- Programming Languages: Python, Java, C++, Rust, R
-- Tools & Frameworks: Git, Docker, VSCode, Pycharm, Intellij IDEA， CLion, RustRover
-- Focus Areas: Machine Learning / Data Analysis / Web Development / Desktop Applications 
+I'm passionate about deep learning and enjoy exploring new technologies.  
+I love working on projects related to  web apps, deep learning and continuously improving my skills.
 
 ## 📂 Projects
-- **Customer Management System**: A desktop app built with Python and Tkinter for managing client data.  
-- **Trading with Demons**: A card game simulator designed with casino-style mechanics.  
-- **More projects**: Ongoing contributions and experiments.  
+### AI Post-Training Research Project
+
+**Python · PyTorch · Large Language Models**
+
+Research on post-training techniques for large language models. Built data generation, filtering, and evaluation pipelines, and curated high-quality training datasets that improved downstream model performance by approximately **6%**.
+
+### Open-World Counting Research (Ongoing)
+
+**Python · PyTorch · Computer Vision · Multimodal AI**
+
+Researching open-world object counting methods that generalize to unseen categories. Exploring robust training strategies, benchmark design, and evaluation protocols for real-world counting scenarios.
 
 ## 🎯 Goals
 - Deepen my knowledge in **AI / Software Engineering / Data Science**  
